@@ -174,7 +174,7 @@ function Suggestions() {
       </IconsContainer>
       <BoxContainer>
         <BoxHeader>
-          <span>Contas sugeridas</span>
+          <span>Cuentas sugeridas</span>
         </BoxHeader>
         <ItemContainer>
           {people.map((person, index) => (
@@ -191,7 +191,7 @@ function Suggestions() {
       </BoxContainer>
       <BoxContainer>
         <BoxHeader>
-          <span>Descobrir</span>
+          <span>Descubrir</span>
         </BoxHeader>
         <ItemContainer>
           {itens.map((item, index) => (

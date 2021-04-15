@@ -13,11 +13,11 @@ function Sidebar() {
     <Container>
       <MenuItem active>
         <img src='/images/homeIcon.svg'></img>
-        <span>Para você</span>
+        <span>Para ti</span>
       </MenuItem>
       <MenuItem>
         <img src='/images/peopleIcon.svg'></img>
-        <span>Seguindo</span>
+        <span>Siguiendo</span>
       </MenuItem>
       <Following>
         <FollowingHeader>Suas pricipais contas</FollowingHeader>
