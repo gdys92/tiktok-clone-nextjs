@@ -20,7 +20,7 @@ function Sidebar() {
         <span>Siguiendo</span>
       </MenuItem>
       <Following>
-        <FollowingHeader>Suas pricipais contas</FollowingHeader>
+        <FollowingHeader>Cuentas principales</FollowingHeader>
         <User
           user={{
             name: 'Will Smith',
@@ -35,19 +35,19 @@ function Sidebar() {
           <a>Início</a>
           <a>Sobre</a>
           <a>Sala de imprensa</a>
-          <a>Carreira</a>
+          <a>Carrera</a>
           <a>ByteDance</a>
         </Links>
         <Links>
-          <a>Ajuda</a>
-          <a>Segurança</a>
+          <a>Ayuda</a>
+          <a>Seguridad</a>
         </Links>
         <Links>
-          <a>Diretrizes da comunidade</a>
-          <a>Termos</a>
+          <a>Directrizes de comunidades</a>
+          <a>Condiciones</a>
         </Links>
         <Links margin>
-          <a>Privacidade</a>
+          <a>Privacidad</a>
         </Links>
         <Links margin>
           <a>© 2020 TikTok</a>
