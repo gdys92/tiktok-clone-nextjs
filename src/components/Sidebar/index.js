@@ -23,7 +23,7 @@ function Sidebar() {
         <FollowingHeader>Cuentas principales</FollowingHeader>
         <User
           user={{
-            name: 'Will Smit',
+            name: 'Will Smith',
             username: 'willsmith',
             avatar:
               'https://p16-amd-va.tiktokcdn.com/img/musically-maliva-obj/1646315618666501~c5_100x100.jpeg',
